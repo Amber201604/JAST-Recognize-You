@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598853773754",
+    "firebase_url": "https://qhacks-34e07.firebaseio.com",
+    "project_id": "qhacks-34e07",
+    "storage_bucket": "qhacks-34e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598853773754:android:b3e1652557351fcf",
+        "android_client_info": {
+          "package_name": "android.example.qhacksv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598853773754-tn9m00juregde03mautqrkpd8ftq53bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.qhacksv4",
+            "certificate_hash": "3e26c2540a13447e5551a8eeef3046eaa7754738"
+          }
+        },
+        {
+          "client_id": "598853773754-f5mqfo6ua08sp4u446fq4pksrav5cji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJX3ftfUzINDTRtAftoZUH02XjPqMmRfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598853773754-f5mqfo6ua08sp4u446fq4pksrav5cji8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
