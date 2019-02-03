@@ -118,7 +118,7 @@ if __name__ == "__main__":
 
     while True:
         pre = fdb.get("/", "csv")
-        if pre == "" or pre == None or fdb.get("/", "csv")==pre or fdb.get("/", "csv") == "" or fdb.get("/", "csv") == None:
+        if pre == "" or pre == None or fdb.get("/", "csv") == pre or fdb.get("/", "csv") == "" or fdb.get("/", "csv") == None:
             time.sleep(1)
         else:
             q = readers("new")
